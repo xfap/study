@@ -1,5 +1,5 @@
 ---
-{"title":"阅读笔记","creation date":"2022-03-02 13:51:59","parent":null,"rating":"⭐","dg-home":true,"dg-publish":true,"permalink":"/02-reading/mpc/ss/spdz/spdz/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":true}
+{"title":"阅读笔记","creation date":"2022-03-02 13:51:59","parent":null,"rating":"⭐","dg-home":false,"dg-publish":true,"permalink":"/02-reading/mpc/ss/spdz/spdz/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 tags: 
